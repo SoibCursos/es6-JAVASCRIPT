@@ -1,0 +1,1 @@
+Cada index va con sun app, es decir idex1.html va con app-01.js
