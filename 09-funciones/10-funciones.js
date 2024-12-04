@@ -9,8 +9,8 @@ function pasaElBillete(eurete){
 }
 //Para no perderlo lo meto en una variable que he llamado también "cambio"
 /*De hecho la voy a cambiar para probar que es correcto, ya se que alguien pensara en código NINJA ;-), lodigo por lo de pollastre, VALE VEO QUE NO HA FUNCIONADO :-(*/
-let eurete=prompt("Cuántos euretes tienes en el bolsillete? ");
+let coin=prompt("Cuántos euretes tienes en el bolsillete? ");
 
-let cambio=pasaElBillete(eurete);
-alert(`Tienes ${eurete} Euros en el bolsillo que se van a convertir en ${cambio} $ USA`);
+let cambio=pasaElBillete(coin);
+alert(`Tienes ${coin} Euros en el bolsillo que se van a convertir en ${cambio} $ USA`);
 
