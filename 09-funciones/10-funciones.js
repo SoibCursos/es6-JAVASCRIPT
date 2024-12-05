@@ -13,4 +13,3 @@ let coin=prompt("Cuántos euretes tienes en el bolsillete? ");
 
 let cambio=pasaElBillete(coin);
 alert(`Tienes ${coin} Euros en el bolsillo que se van a convertir en ${cambio} $ USA`);
-
